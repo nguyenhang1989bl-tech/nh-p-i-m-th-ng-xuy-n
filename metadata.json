@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Điểm Tiết Học - Chấm Điểm & Giọng Nói",
+  "description": "Sổ theo dõi kết quả học tập từng tiết học dành cho giáo viên bộ môn: Tích điểm nhanh, nhập giọng nói, tự động tính trung bình 2 cột điểm (bôi đỏ), xuất Excel, hoạt động ngoại tuyến & đồng bộ thời gian thực.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
